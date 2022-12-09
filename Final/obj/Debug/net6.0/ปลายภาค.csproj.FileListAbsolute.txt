@@ -1,0 +1,15 @@
+C:\Users\Rinny\Desktop\ปลายภาค\bin\Debug\net6.0\ปลายภาค.exe
+C:\Users\Rinny\Desktop\ปลายภาค\bin\Debug\net6.0\ปลายภาค.deps.json
+C:\Users\Rinny\Desktop\ปลายภาค\bin\Debug\net6.0\ปลายภาค.runtimeconfig.json
+C:\Users\Rinny\Desktop\ปลายภาค\bin\Debug\net6.0\ปลายภาค.dll
+C:\Users\Rinny\Desktop\ปลายภาค\bin\Debug\net6.0\ปลายภาค.pdb
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.csproj.AssemblyReference.cache
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.AssemblyInfoInputs.cache
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.AssemblyInfo.cs
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.csproj.CoreCompileInputs.cache
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.dll
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\refint\ปลายภาค.dll
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.pdb
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ปลายภาค.genruntimeconfig.cache
+C:\Users\Rinny\Desktop\ปลายภาค\obj\Debug\net6.0\ref\ปลายภาค.dll
